@@ -2,9 +2,8 @@
 
 ## Identitas Kelompok
 
-| Keterangan | Isi |
+| Nama | NRP |
 |---|---|
-| Kelompok | 15 |
 | Nadine Aulia Putri Fanani | 5025231206|
 | Salwa Fitri Fadiyah Hanan| 5025231220|
 | Mata kuliah | Grafika Komputer |
