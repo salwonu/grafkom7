@@ -4,9 +4,9 @@
 
 | Keterangan | Isi |
 |---|---|
-| Nama kelompok | _(isi)_ |
-| Anggota 1 | _(nama, NRP)_ |
-| Anggota 2 | _(nama, NRP)_ |
+| Kelompok | 15 |
+| Nadine Aulia Putri Fanani | 5025231206|
+| Salwa Fitri Fadiyah Hanan| 5025231220|
 | Mata kuliah | Grafika Komputer |
 
 ## Judul dan Deskripsi Prototype
