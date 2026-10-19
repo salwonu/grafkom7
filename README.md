@@ -2,14 +2,12 @@
 
 ## Identitas Kelompok
 
-| Keterangan | Isi |
+| Nama | NRP |
 |---|---|
-| Nama kelompok | _(isi)_ |
-| Anggota 1 | _(nama, NRP)_ |
-| Anggota 2 | _(nama, NRP)_ |
+| Nadine Aulia Putri Fanani | 5025231206 |
+| Salwa Fitri Fadiyah Hanan | 5025231220 |
 | Mata kuliah | Grafika Komputer |
 
-## Judul dan Deskripsi Prototype
 
 **Interactive 3D Playground: Robot, PBR Gallery, dan Mini Solar System**
 
@@ -147,7 +145,7 @@ Struktur folder:
 
 ## Catatan Debugging
 
-Hal-hal yang ditangani di kode (tambahkan temuan nyata kelompok di sini bila ada):
+Hal-hal yang ditangani di kode:
 
 - **Halaman kosong / error CORS**: terjadi jika dibuka via `file://`; solusinya memakai local server.
 - **Highlight ikut mengubah mesh lain**: material GLB bisa dipakai bersama; solusinya `material.clone()` per mesh saat import.
